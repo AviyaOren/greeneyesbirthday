@@ -20,7 +20,7 @@ require(['scratchcard', 'domReady!'], function init(Scratchcard) {
 
 		ctx.fillRect(0, 0, width, height);
 
-		ctx.font = '4rem Courier';
+		ctx.font = '8rem Courier';
 		ctx.fillStyle = '#FFFFFF';
 		ctx.fillText('!גרדי אותי', 50, 400);
 	};
